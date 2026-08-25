@@ -1,0 +1,8 @@
+/vendor/
+/composer.lock
+/js/node_modules/
+/js/dist-typings/
+/tests/.phpunit.cache/
+.idea
+npm-debug.log*
+/locale/zh-Hans.yml
