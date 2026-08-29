@@ -1,0 +1,8 @@
+/vendor/
+/composer.lock
+/js/node_modules/
+/js/dist-typings/
+/tests/.phpunit.cache/
+/tests/.phpunit.result.cache
+.idea
+npm-debug.log*
