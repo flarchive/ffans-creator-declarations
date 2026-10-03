@@ -2,13 +2,18 @@
 
 > **Read-only archive of released versions of ffans/creator-declarations.** Not for installation: use [Packagist](https://packagist.org/packages/ffans/creator-declarations) or the [upstream repository](https://github.com/FFans/creator-declarations).
 
-**0** versions archived · Latest: [`v0.2.3`](https://github.com/flarchive/ffans-creator-declarations/tree/archive/v0.2.3) · License: `MIT` · Flarum: `^2.0.0`
+**6** versions archived · Latest: [`v0.2.3`](https://github.com/flarchive/ffans-creator-declarations/tree/archive/v0.2.3) · License: `MIT` · Flarum: `^2.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.0` | 2026-08-25 | `^1.8.0` | [Browse](https://github.com/flarchive/ffans-creator-declarations/tree/archive/v0.1.0) |
+| `v0.1.1` | 2026-08-29 | `^1.8.0` | [Browse](https://github.com/flarchive/ffans-creator-declarations/tree/archive/v0.1.1) |
+| `v0.2.0` | 2026-08-23 | `^2.0.0` | [Browse](https://github.com/flarchive/ffans-creator-declarations/tree/archive/v0.2.0) |
+| `v0.2.1` | 2026-08-23 | `^2.0.0` | [Browse](https://github.com/flarchive/ffans-creator-declarations/tree/archive/v0.2.1) |
+| `v0.2.2` | 2026-08-25 | `^2.0.0` | [Browse](https://github.com/flarchive/ffans-creator-declarations/tree/archive/v0.2.2) |
+| `v0.2.3` | 2026-08-29 | `^2.0.0` | [Browse](https://github.com/flarchive/ffans-creator-declarations/tree/archive/v0.2.3) |
 
 Catalog entry: [packages/ffans-creator-declarations.json](https://github.com/flarchive/archive-index/blob/main/packages/ffans-creator-declarations.json)
 
